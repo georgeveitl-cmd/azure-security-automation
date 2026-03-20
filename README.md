@@ -25,3 +25,9 @@ scripts/
 documentation/
   - rbac-audit-process.md
   - identity-monitoring.md
+## Governance Reference
+
+This repository is part of a broader enterprise security program that includes architecture, operations, and governance components.
+
+Central governance framework:
+https://github.com/georgeveitl-cmd/enterprise-security-governance
